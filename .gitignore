@@ -1,0 +1,9 @@
+/.env
+/fb-credentials.json
+/app/core/__pycache__
+/__pycache__
+/app/__pycache__
+/app/repository/__pycache__
+/env
+/build
+/.vscode
